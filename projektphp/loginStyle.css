@@ -1,0 +1,32 @@
+body
+{
+    background-image:url('homeImg/loginBackground.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 1000%;
+    opacity: 0.9;
+}
+img
+{
+    width: 80%;
+    height: 80%;
+}
+
+.input-margin
+{
+    margin-bottom: -10px;
+}
+
+
+.login-text
+{
+    color: #ffffff;
+    font-weight: 450;
+    margin-bottom: 10px;
+}
+
+.submit-margin
+{
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
